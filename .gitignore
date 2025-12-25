@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+
+# IDE
+.idea/
+.vscode/
+
+# Project Specific
+models/
+chinese-roberta-wwm-ext/
+guwenbert-base/
+*.log
+*.zip
+
